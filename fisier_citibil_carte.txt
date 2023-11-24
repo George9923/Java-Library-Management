@@ -1,0 +1,5 @@
+1,Java,9781234567897,Nedelcu Marius,Informatica
+2,Python,01234567,Ionescu Adorian,Informatica
+6,C++,123456789,Popa Alin,Informatica
+7,Javascript,1234565678,Nedelcu Marius,InformaticaAvansata
+12,Leviatanul,123456745322,Ionescu Adorian,Filosofie
